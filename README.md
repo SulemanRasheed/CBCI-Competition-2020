@@ -15,6 +15,6 @@ You can view the code by opening the files at Github. Sometimes, Github have som
 
 
 ## Results
-![Within Subject Classification](https://drive.google.com/file/d/1RFX37wzsWSkA8NdZXbn7ce7-OGlFw8_Y/view?usp=sharing)
+![Within Subject Classification](Images/within subject result.JPG)
 
 ![Cross Subject Classification](https://drive.google.com/file/d/1Z01Mp7ZEI4mOw1meoUCN4ISLa4OjkZnN/view?usp=sharing)
