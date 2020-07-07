@@ -46,3 +46,7 @@ Brain Computer Interface (BCI) promises a better future for people with neurolog
 #### Cross Subject Classification Results
 <img src="Images/cross_subject_results.JPG">
 
+
+## Contacting the Author
+If you are facing some issues in running the code then open a [Github Issue](https://github.com/SulemanRasheed/CBCI-Competition-2020/issues). Otherwise, if you need more info about the project or just want to discuss some ideas related to this project then feel free to contact me at: 
+SulemanRasheedEngr@gmail.com
