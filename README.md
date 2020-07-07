@@ -10,10 +10,21 @@ In this competition, we are provided an EEG Dataset of 10 hemiparetic stroke pat
  - [Competition Website Link](https://sites.google.com/view/bci-comp-wcci/?fbclid=IwAR37WLQ_xNd5qsZvktZCT8XJerHhmVb_bU5HDu69CnO85DE3iF0fs57vQ6M)
 
 ## How to Run it?
-The code is primarily written in Python using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. The required packages are listed in requirements.txt file.  
+The code is primarily written in Python using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom
 
+#### Required Packages
+- PyWavelets == 1.1.1
+- mne == 0.20.3
+- numpy == 1.18.1
+- pandas == 1.0.3
+- scikit_learn == 0.22.1
+- scipy == 1.4.1 
+The required packages are also listed in requirements.txt file
+
+#### For Beginners
 If you are new to Python then I would highly suggest you to install [Anaconda](https://www.anaconda.com/) which would automatically manage and update different libraries to avoid conflicts. Moreover, it also comes with Jupyter Notebook pre-installed and a lot of relevant python packages like Numpy, Scipy, Matplotlib etc. [Anaconda Installation Instructions](https://docs.anaconda.com/anaconda/install/)
 
+#### Having Issue with Previewing Files
 You can view the code by opening the files at Github. Sometimes, Github have some issues in previewing Jupyter Notebooks so you may try again to 'Reload' or Just copy paste the url of the notebook and paste it in  [nbviewer](https://nbviewer.jupyter.org/)
 
 ## Abstract of the Final Report
@@ -34,3 +45,4 @@ Brain Computer Interface (BCI) promises a better future for people with neurolog
 
 #### Cross Subject Classification Results
 <img src="Images/cross_subject_results.JPG">
+
