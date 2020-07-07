@@ -19,6 +19,7 @@ The code is primarily written in Python 3  using Jupyter Notebooks. In order to 
 - pandas == 1.0.3
 - scikit_learn == 0.22.1
 - scipy == 1.4.1 
+
 The required packages are also listed in requirements.txt file. To install them via pip, simply go to https://pypi.org/ and search by the name of your required package and it would tell you exactly the pip command. All these packages are quite mature in terms of their development, so probably you won't face any issues even if you have other versions of the same packages installed on your system. If you want to be highly defensive then go for virtual environments.
 
 #### For Beginners
