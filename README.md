@@ -10,7 +10,7 @@ In this competition, we are provided an EEG Dataset of 10 hemiparetic stroke pat
  - [Competition Website Link](https://sites.google.com/view/bci-comp-wcci/?fbclid=IwAR37WLQ_xNd5qsZvktZCT8XJerHhmVb_bU5HDu69CnO85DE3iF0fs57vQ6M)
 
 ## How to Run it?
-The code is primarily written in Python using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom
+The code is primarily written in Python 3  using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom
 
 #### Required Packages
 - PyWavelets == 1.1.1
@@ -19,7 +19,7 @@ The code is primarily written in Python using Jupyter Notebooks. In order to run
 - pandas == 1.0.3
 - scikit_learn == 0.22.1
 - scipy == 1.4.1 
-The required packages are also listed in requirements.txt file
+The required packages are also listed in requirements.txt file. To install them via pip, simply go to https://pypi.org/ and search by the name of your required package and it would tell you exactly the pip command. All these packages are quite mature in terms of their development, so probably you won't face any issues even if you have other versions of the same packages installed on your system. If you want to be highly defensive then go for virtual environments.
 
 #### For Beginners
 If you are new to Python then I would highly suggest you to install [Anaconda](https://www.anaconda.com/) which would automatically manage and update different libraries to avoid conflicts. Moreover, it also comes with Jupyter Notebook pre-installed and a lot of relevant python packages like Numpy, Scipy, Matplotlib etc. [Anaconda Installation Instructions](https://docs.anaconda.com/anaconda/install/)
@@ -49,4 +49,4 @@ Brain Computer Interface (BCI) promises a better future for people with neurolog
 
 ## Contacting the Author
 If you are facing some issues in running the code then open a [Github Issue](https://github.com/SulemanRasheed/CBCI-Competition-2020/issues). Otherwise, if you need more info about the project or just want to discuss some ideas related to this project then feel free to contact me at: 
-SulemanRasheedEngr@gmail.com
+Email: SulemanRasheedEngr@gmail.com
